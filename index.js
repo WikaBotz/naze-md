@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
+   * Create By Wika Dev
+   * Recode By Wika Dev
+   * Contact Me on wa.me/6283148107491
    * Follow https://github.com/nazedev
 */
 
