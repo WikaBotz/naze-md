@@ -5,7 +5,7 @@ Yg Mau Sv Nomerku?
 wa.me/6283148107491
 
 Minimal Kasih Cr kalo mau reupload😡
-Create By Dika Ardnt.
+Create By Wika
 Recode By Wika
 
 Kalau Sampai Ketemu Lagi Creator Bot
@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6283148107491']
+global.ownernomer = "6283148107491"
+global.premium = ['6283148107491']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'Wika Dev'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
